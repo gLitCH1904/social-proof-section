@@ -24,6 +24,7 @@ body {
     font-family: 'Spartan', sans-serif;
     padding: 5rem 0rem 5rem 0rem;
     box-sizing: border-box;
+    min-height: 100vh;
 }
 
 .container {
