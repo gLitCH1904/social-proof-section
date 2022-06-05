@@ -302,7 +302,7 @@ body {
     }
 
     .portfolios article {
-        max-width: 325px;
+        width: 350px;
         height: 200px;
         padding: 1.5rem 1.5rem 1.5rem 1.5rem;
         font-size: 14px;
