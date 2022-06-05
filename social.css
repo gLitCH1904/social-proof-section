@@ -24,7 +24,6 @@ body {
     font-family: 'Spartan', sans-serif;
     padding: 5rem 0rem 5rem 0rem;
     box-sizing: border-box;
-    min-height: 100vh;
 }
 
 .container {
@@ -247,7 +246,7 @@ body {
     }
 
     .stars div {
-        width: 285px;
+        max-width: 285px;
         padding: 0 0 0 0;
         display: flex;
         flex-direction: column;
@@ -303,7 +302,7 @@ body {
     }
 
     .portfolios article {
-        width: 370px;
+        max-width: 325px;
         height: 200px;
         padding: 1.5rem 1.5rem 1.5rem 1.5rem;
         font-size: 14px;
